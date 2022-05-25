@@ -1,3 +1,7 @@
 Alcool :
 Vodka
 Bieres
+
+Soft :
+Coca
+Sprite
